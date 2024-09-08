@@ -6,7 +6,7 @@
 </div>
 
 <br clear="both">
-###
+
 # 💻 Tech Stack:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" height="30" alt="android logo"  />
@@ -24,7 +24,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
 </div>
 
-###
 ## 🌐 Socials:
 <div align="left">
   <a href="https://www.linkedin.com/in/khaled-mohamed-013488257/" target="_blank">
@@ -38,6 +37,6 @@
   </a>
 </div>
 
-
+###
 
 [![](https://visitcount.itsvg.in/api?id=Khaled-Khairy&icon=5&color=0)](https://visitcount.itsvg.in)
