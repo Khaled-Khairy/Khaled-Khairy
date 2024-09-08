@@ -5,16 +5,6 @@
   <img height="480" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif?cid=790b7611ifipxdobbn0r63vz2d87453d26knlfzre9ucw3ub&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Khaled-Khairy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Khaled-Khairy&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Khaled-Khairy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <br clear="both">
 
 <img align="right" height="150" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b7611ifipxdobbn0r63vz2d87453d26knlfzre9ucw3ub&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
@@ -50,5 +40,7 @@
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
 </div>
+
+
 
 [![](https://visitcount.itsvg.in/api?id=Khaled-Khairy&icon=5&color=0)](https://visitcount.itsvg.in)
