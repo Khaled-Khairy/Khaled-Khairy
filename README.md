@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="480" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b7611uvmph45atanox6exib8pnnofytflglwphcvmq2od&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
+  <img height="480" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzUzMDVkYmh0enY1Nnl2YnU1ZWh0eW10OXcxb3VmYms1cDBzN3hqYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VTtANKl0beDFQRLDTh/giphy.gif"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Khaled M. Khairy</h1>
