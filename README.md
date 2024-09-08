@@ -7,7 +7,7 @@
 
 <br clear="both">
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" height="30" alt="android logo"  />
   <img width="12" />
