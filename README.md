@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Khaled M. Khairy</h1>
 <h3 align="center">💻 Junior Flutter Developer | 1 Year Experience in Flutter & Android Development | Building Mobile Solutions with a Passion for Clean Code and UI/UX</h3>
 
-- 🏥 I’m currently working on [Alwarsha](https://github.com/Khaled-Khairy/warsha)
-
 - 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **hy3113194@gmail.com**
