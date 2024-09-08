@@ -24,6 +24,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
 </div>
 
+###
+
 ## 🌐 Socials:
 <div align="left">
   <a href="https://www.linkedin.com/in/khaled-mohamed-013488257/" target="_blank">
@@ -40,3 +42,8 @@
 ###
 
 [![](https://visitcount.itsvg.in/api?id=Khaled-Khairy&icon=5&color=0)](https://visitcount.itsvg.in)
+
+###
+<img src="https://raw.githubusercontent.com/Khaled-Khairy/Khaled-Khairy/output/snake.svg" alt="Snake animation" />
+
+###
