@@ -1,6 +1,7 @@
 <div align="center">
   <img height="480" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b7611uvmph45atanox6exib8pnnofytflglwphcvmq2od&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
 </div>
+###
 
 <h1 align="center">Hi 👋, I'm Khaled M. Khairy</h1>
 <h3 align="center">💻 Junior Flutter Developer | 1 Year Experience in Flutter & Android Development | Building Mobile Solutions with a Passion for Clean Code and UI/UX</h3>
@@ -42,8 +43,3 @@
 ###
 
 [![](https://visitcount.itsvg.in/api?id=Khaled-Khairy&icon=5&color=0)](https://visitcount.itsvg.in)
-
-###
-<img src="https://raw.githubusercontent.com/Khaled-Khairy/Khaled-Khairy/output/snake.svg" alt="Snake animation" />
-
-###
