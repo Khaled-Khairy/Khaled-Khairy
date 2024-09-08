@@ -1,7 +1,9 @@
+<div align="center">
+  <img height="480" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif?cid=790b7611ifipxdobbn0r63vz2d87453d26knlfzre9ucw3ub&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+</div>
+
 <h1 align="center">Hi 👋, I'm Khaled M. Khairy</h1>
 <h3 align="center">💻 Junior Flutter Developer | 1 Year Experience in Flutter & Android Development | Building Mobile Solutions with a Passion for Clean Code and UI/UX</h3>
-
-
 
 <br clear="both">
 
