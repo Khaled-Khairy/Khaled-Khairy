@@ -58,3 +58,4 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 
 ###
+[![](https://visitcount.itsvg.in/api?id=Khaled-Khairy&icon=5&color=0)](https://visitcount.itsvg.in)
