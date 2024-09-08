@@ -6,11 +6,8 @@
 </div>
 
 <br clear="both">
-
-<img align="right" height="150" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b7611ifipxdobbn0r63vz2d87453d26knlfzre9ucw3ub&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-
 ###
-
+# 💻 Tech Stack:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" height="30" alt="android logo"  />
   <img width="12" />
