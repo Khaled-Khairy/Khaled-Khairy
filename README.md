@@ -1,13 +1,9 @@
 <div align="center">
   <img height="480" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b7611uvmph45atanox6exib8pnnofytflglwphcvmq2od&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
 </div>
-###
-
 <h1 align="center">Hi 👋, I'm Khaled M. Khairy</h1>
 <h3 align="center">💻 Junior Flutter Developer | 1 Year Experience in Flutter & Android Development | Building Mobile Solutions with a Passion for Clean Code and UI/UX</h3>
-
 <br clear="both">
-
 # 💻 Tech Stack:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" height="30" alt="android logo"  />
