@@ -1,7 +1,7 @@
 <h1 align="center">Khaled M. Khairy</h1>
 
 <h3 align="center">
-💻 Junior Flutter Developer | 1+ Year Experience in Flutter & Android Development  
+💻 Flutter Developer | 1+ Year Experience in Flutter & Android Development  
 </h3>
 
 <p align="center">
