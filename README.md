@@ -40,16 +40,8 @@ Passionate about building clean, scalable, and user-friendly mobile applications
 
 ## 🌐 Socials
 
-<div style="display: flex; gap: 12px; align-items: center;">
-  <a href="https://www.linkedin.com/in/khaled-mohamed-013488257/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin" />
-  </a>
-
-  <a href="https://www.facebook.com/Khaled.Khaiiry" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook" />
-  </a>
-
-  <a href="https://wa.me/+201025335476" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp" />
-  </a>
-</div>
+<p align="left">
+  <a href="https://www.linkedin.com/in/khaled-mohamed-013488257/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" /></a>
+  <a href="https://www.facebook.com/Khaled.Khaiiry" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" /></a>
+  <a href="https://wa.me/+201025335476" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" /></a>
+</p>
