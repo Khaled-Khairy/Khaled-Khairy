@@ -40,7 +40,7 @@ Passionate about building clean, scalable, and user-friendly mobile applications
 
 ## 🌐 Socials
 
-<p align="left">
+<div style="display: flex; gap: 12px; align-items: center;">
   <a href="https://www.linkedin.com/in/khaled-mohamed-013488257/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin" />
   </a>
@@ -52,4 +52,4 @@ Passionate about building clean, scalable, and user-friendly mobile applications
   <a href="https://wa.me/+201025335476" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp" />
   </a>
-</p>
+</div>
