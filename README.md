@@ -27,9 +27,3 @@ Flutter Developer with 1+ year of hands-on experience building production-ready 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite" />
 </div>
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/khaled-mohamed-013488257/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" /></a>
-  <a href="https://www.facebook.com/Khaled.Khaiiry" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" /></a>
-  <a href="https://wa.me/+201025335476" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" /></a>
-</p>
