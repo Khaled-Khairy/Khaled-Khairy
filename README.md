@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="480" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
-</div>
-
 <h1 align="center">Khaled M. Khairy</h1>
 
 <h3 align="center">
@@ -9,12 +5,8 @@
 </h3>
 
 <p align="center">
-Passionate about building clean, scalable, and user-friendly mobile applications with a strong focus on performance, UI/UX, and maintainable architecture.
+Flutter Developer with 1+ year of hands-on experience building production-ready mobile applications. Skilled in scalable architectures using Bloc and Clean Architecture.
 </p>
-
-<br clear="both">
-
----
 
 ## 💻 Tech Stack
 
@@ -35,10 +27,6 @@ Passionate about building clean, scalable, and user-friendly mobile applications
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite" />
 </div>
-
----
-
-## 🌐 Socials
 
 <p align="left">
   <a href="https://www.linkedin.com/in/khaled-mohamed-013488257/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" /></a>
