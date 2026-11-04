@@ -1,5 +1,3 @@
-# Khaled M. Khairy
-
 <h1 align="center">Khaled M. Khairy</h1>
 
 <h3 align="center">
